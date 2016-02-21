@@ -1,7 +1,7 @@
 {
   "name": "b9-slander",
   "description": "A b9 slack bot plugin, which makes archaic, false, and damaging statements about users.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Mike Helgeson <mike.helgeson+b9@gmail.com>",
   "contributors": [],
   "license": "MIT",
